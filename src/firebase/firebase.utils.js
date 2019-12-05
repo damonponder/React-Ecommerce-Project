@@ -3,13 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyDeQYmbaOish3xkYxsowqMSIkNGacskSNg",
+  authDomain: "ecommerce-react-56f38.firebaseapp.com",
+  databaseURL: "https://ecommerce-react-56f38.firebaseio.com",
+  projectId: "ecommerce-react-56f38",
+  storageBucket: "ecommerce-react-56f38.appspot.com",
+  messagingSenderId: "956564720936",
+  appId: "1:956564720936:web:6350af81c09fcc73c1941d"
 };
 
 firebase.initializeApp(config);
